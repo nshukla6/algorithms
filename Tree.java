@@ -15,6 +15,8 @@ class TreeNode{
 
 
 public class Tree {
+
+	// Nitin walmart
 	
 
 	public static void main(String[] args) {
@@ -37,7 +39,6 @@ public class Tree {
 	}
 	static boolean printAncestors(TreeNode node, int target) {
         
-        /* base cases */
        if (node == null) {
            return false;
        }
